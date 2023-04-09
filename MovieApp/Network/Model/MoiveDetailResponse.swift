@@ -2,7 +2,7 @@
 //  MovieDetailResponse.swift
 //  MovieApp
 //
-//  Created by mac on 09/04/2023.
+//  Created by Muhammad Darain on 09/04/2023.
 //
 
 import Foundation

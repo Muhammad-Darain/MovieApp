@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MovieApp
 //
-//  Created by mac on 07/04/2023.
+//  Created by Muhammad Darain on 07/04/2023.
 //
 
 import UIKit
