@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire",
+      "state" : {
+        "revision" : "78424be314842833c04bc3bef5b72e85fff99204",
+        "version" : "5.6.4"
+      }
+    },
+    {
+      "identity" : "bond",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DeclarativeHub/Bond",
+      "state" : {
+        "revision" : "146943c0bc03a93c48fb6c57db4e39f4b38ba74b",
+        "version" : "7.8.1"
+      }
+    },
+    {
+      "identity" : "differ",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tonyarnold/Differ.git",
+      "state" : {
+        "revision" : "5520fda947f1f9777a806389c2ba587219bc0538",
+        "version" : "1.4.6"
+      }
+    },
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher",
+      "state" : {
+        "revision" : "af4be924ad984cf4d16f4ae4df424e79a443d435",
+        "version" : "7.6.2"
+      }
+    },
+    {
+      "identity" : "reactivekit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/DeclarativeHub/ReactiveKit.git",
+      "state" : {
+        "revision" : "57a902a1b4f7aeafcb7b5cfec0c15635d0fd2b63",
+        "version" : "3.19.2"
+      }
+    },
+    {
+      "identity" : "swiftconnect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tareksabry1337/SwiftConnect",
+      "state" : {
+        "revision" : "81be739306f7aef69747f13a2eabbd2f45e6290f",
+        "version" : "2.0.14"
+      }
+    }
+  ],
+  "version" : 2
+}
